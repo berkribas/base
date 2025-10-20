@@ -1,0 +1,4 @@
+fix: login form validation error when email field is empty
+feat: add dark mode toggle to navbar
+test: add unit tests for user service
+refactor: simplify user authentication logic
